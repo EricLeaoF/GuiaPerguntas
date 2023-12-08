@@ -1,5 +1,3 @@
-﻿# GuiaPerguntas
-
 # Aplicação de Perguntas e Respostas
 
 Este é um exemplo de aplicação simples de perguntas e respostas usando Node.js, Express, Sequelize (para interagir com o banco de dados) e EJS como view engine.
