@@ -32,7 +32,7 @@ No diretório do projeto, execute o seguinte comando para instalar as dependênc
 
 ```bash
 npm install
-
+```
 ## Executando a Aplicação
 
 Após instalar as dependências e configurar o banco de dados, execute a aplicação com o seguinte comando:
