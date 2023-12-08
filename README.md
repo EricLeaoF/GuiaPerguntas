@@ -24,8 +24,9 @@ const connection = new Sequelize('nome_do_banco', 'usuario', 'senha', {
     dialect: 'mysql'
 });
 
-module.exports = connection;
 
+module.exports = connection;
+```
 ## Executando a Aplicação
 
 Após instalar as dependências e configurar o banco de dados, execute a aplicação com o seguinte comando:
