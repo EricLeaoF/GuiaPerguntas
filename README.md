@@ -27,6 +27,12 @@ const connection = new Sequelize('nome_do_banco', 'usuario', 'senha', {
 
 module.exports = connection;
 ```
+## Instação das dependências
+No diretório do projeto, execute o seguinte comando para instalar as dependências:
+
+```bash
+npm install
+
 ## Executando a Aplicação
 
 Após instalar as dependências e configurar o banco de dados, execute a aplicação com o seguinte comando:
